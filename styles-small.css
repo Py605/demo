@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.about-section{
+  min-width: 100vw;
+}
+.about-container{
+  height: 100vh;
+  min-width: 90%;
+}
